@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow the specific folder
+!/Assets/
+!/Assets/@Project/
+!/Assets/@Project/Scripts/
+
+!/Assets/@Project/Scripts/**
+
+!.gitignore
